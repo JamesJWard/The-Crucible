@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Crucible", "The Crucible\The Crucible\The Crucible.csproj", "{139A2B92-803E-48E7-B6BF-48B7B368B291}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "The CrucibleContent", "The Crucible\The CrucibleContent\The CrucibleContent.contentproj", "{B6D2E184-AA94-46CC-A445-1A2AF61A83D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{139A2B92-803E-48E7-B6BF-48B7B368B291}.Debug|x86.ActiveCfg = Debug|x86
+		{139A2B92-803E-48E7-B6BF-48B7B368B291}.Debug|x86.Build.0 = Debug|x86
+		{139A2B92-803E-48E7-B6BF-48B7B368B291}.Release|x86.ActiveCfg = Release|x86
+		{139A2B92-803E-48E7-B6BF-48B7B368B291}.Release|x86.Build.0 = Release|x86
+		{B6D2E184-AA94-46CC-A445-1A2AF61A83D8}.Debug|x86.ActiveCfg = Debug|x86
+		{B6D2E184-AA94-46CC-A445-1A2AF61A83D8}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
